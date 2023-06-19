@@ -1,0 +1,47 @@
+<profiles>
+    <profile name="Technical-tactical profile">
+        <group name="działania zawodnika w atakowaniu oraz przejście do działań w bronieniu">
+            <statistic name="znakomity poziom podań na średnią i dalszą odległość ze szczególnym
+                             uwzględnieniem podań do skrzydłowych (7 i 11) oraz do napastnika (9) za linię obrony"/>
+
+            <statistic name="znakomity poziom podań krótkich szczególnie w fazie budowania gry (atak pozycyjny),"/>
+
+            <statistic name="znakomity poziom panowania nad piłką (w aspekcie budowania gry)"/>
+
+            <statistic name="znakomity poziom umiejętności gry głową (SFG)"/>
+        </group>
+        <group name="działania zawodnika w bronieniu oraz przejście do działań w atakowaniu">
+            <statistic name="wysoki poziom umiejętności techniczno-taktycznych w bronieniu"/>
+
+            <statistic name="względem przeciwnika oraz umiejętne przejście do działań ofensywnych"/>
+
+            <statistic name="umiejętność organizowania i kierowania formacją defensywną"/>
+
+            <statistic name="znakomity poziom gry 1 × 1 w bronieniu przeciwko zawodnikom
+                             grającym przodem lub tyłem do bramki"/>
+
+            <statistic name="jednoczesna kontrola piłki i działań przeciwnika"/>
+
+            <statistic name="znakomity poziom gry głową (SFG, po długich podaniach przeciwnika oraz
+                             dośrodkowaniach z bocznych sektorów boiska)"/>
+        </group>
+    </profile>
+     <profile name="Somatic-motor profile">
+        <statistic name="zawodnik o bardzo dobrych warunkach fizycznych – wysoki, silny"/>
+
+        <statistic name="bardzo wysoki poziom szybkości lokomocyjnej"/>
+
+        <statistic name="bardzo wysoki poziom zdolności koordynacyjnych charakterystycznych dla tej pozycji"/>
+    </profile>
+    <profile name="Mental profile">
+        <statistic name="przewidywanie"/>
+
+        <statistic name="zdolności przywódcze"/>
+
+        <statistic name="odpowiedzialność"/>
+
+        <statistic name="opanowanie"/>
+
+        <statistic name="odwaga"/>
+    </profile>
+</profiles>

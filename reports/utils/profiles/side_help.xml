@@ -1,0 +1,37 @@
+<profiles>
+    <profile name="Technical-tactical profile">
+        <group name="działania zawodnika w atakowaniu oraz przejście do działań w bronieniu">
+            <statistic name="znakomity poziom gry 1 × 1 w atakowaniu i natychmiastowe przejście
+                             do działań defensywnych po stracie piłki"/>
+
+            <statistic name="znakomity poziom dośrodkowania piłki w pełnym biegu"/>
+
+            <statistic name="znakomity poziom uderzenia do bramki zarówno sprzed, jak i z pola karnego"/>
+
+            <statistic name="umiejętność gry przy linii bocznej i sytuacyjnego zejścia do środka pola"/>
+
+            <statistic name=""/>
+        </group>
+        <group name="działania zawodnika w bronieniu oraz przejście do działań w atakowaniu">
+            <statistic name="znakomity poziom gry 1 × 1 w bronieniu i umiejętność szybkiego przejścia do działań
+                             ofensywnych po odbiorze piłki"/>
+
+            <statistic name="umiejętne zawężanie pola gry w fazie defensywnej"/>
+
+            <statistic name="współpraca z zawodnikami linii pomocy, bocznym obrońcą i
+                             napastnikiem w działaniach defensywnych"/>
+        </group>
+    </profile>
+     <profile name="Somatic-motor profile">
+        <statistic name="bardzo wysoki poziom przygotowania szybkościowego i wytrzymałościowego"/>
+
+        <statistic name="wysoki poziom zdolności koordynacyjnych charakterystycznych dla tej pozycji"/>
+    </profile>
+    <profile name="Mental profile">
+        <statistic name="waleczność, determinacja"/>
+
+        <statistic name="chęć podejmowania ryzyka"/>
+
+        <statistic name="kreatywność"/>
+    </profile>
+</profiles>

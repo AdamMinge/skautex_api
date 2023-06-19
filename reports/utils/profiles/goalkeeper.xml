@@ -1,0 +1,66 @@
+<profiles>
+    <profile name="Technical-tactical profile">
+        <group name="działania zawodnika w atakowaniu oraz przejście do działań w bronieniu">
+            <statistic name="ustawianie – zajęcie właściwej pozycji względem
+                             piłki, bramki, linii obrońców, tak aby skutecznie asekurować
+                             interweniować w przypadku strzału"/>
+
+            <statistic name="organizacja bloku defensywnego – korekta ustawiania
+                             zawodników w linii, ustawianie wysokości bloku defensywnego"/>
+
+            <statistic name="organizacja i ustawienie przy SFG – reakcja i
+                             korekta ustawienia zawodników, odpowiednie rozpoczęcie ataku, właściwe
+                             skrócenie pola gry"/>
+
+            <statistic name="otwarcie i budowanie gry, rozpoczęcie gry podaniem
+                             na bliższą i dalszą odległość"/>
+        </group>
+        <group name="działania zawodnika w bronieniu oraz przejście do działań w atakowaniu">
+            <statistic name="chwyt piłki – po chwycie ocena sytuacji boiskowej i
+                             rozpoczęcie akcji"/>
+
+            <statistic name="wypchnięcie piłki, piąstkowanie – jako skuteczna
+                             obrona przed utratą bramki i przejście do działań w ofensywie"/>
+
+            <statistic name="gra 1 × 1 – obrona sytuacyjna i przejście do działań
+                             w ofensywie"/>
+        </group>
+    </profile>
+     <profile name="Somatic-motor profile">
+        <statistic name="odpowiednia wysokość ciała"/>
+
+        <statistic name="antycypacja"/>
+
+        <statistic name="umiejętność szybkiej analizy"/>
+
+        <statistic name="wysoki poziom szybkości lokomocyjnej, szybkości reakcji, szybkości działania"/>
+
+        <statistic name="wytrzymałość specjalna – jako zdolność motoryczna pozwalająca na
+                         działania zawodnika z dużą intensywnością w krótkim odstępie czasu (np.
+                         kilkukrotne powtórzenie interwencji)"/>
+
+        <statistic name="siła/moc – jako zdolność warunkująca wykonanie eksplozywnych działań"/>
+
+        <statistic name="gibkość – jako element niezbędny do interwencji sytuacyjnych"/>
+
+        <statistic name="koordynacja ruchowa – jako element niezbędny do wykonania kilku
+                         złożonych czynności ruchowych, np. chwyt z upadkiem, robinsonada, chwyt w wyskoku"/>
+    </profile>
+    <profile name="Mental profile">
+        <statistic name="odwaga – jako cecha niezbędna do skutecznych interwencji, np. w
+                         sytuacjach 1 × 1, grze na przedpolu w powietrzu w kontakcie z przeciwnikiem"/>
+
+        <statistic name="odpowiedzialność, pewność siebie – jako cecha niezbędna do
+                         podejmowania właściwych, adekwatnych do sytuacji decyzji (również tych na
+                         pograniczu ryzyka)"/>
+
+        <statistic name="cechy przywódcze – jako cechy niezbędne do zarządzania zespołem"/>
+
+        <statistic name="radzenie sobie ze stresem – jako zdolność niezbędna do
+                         wykorzystania swoich umiejętności w działaniach pod presją"/>
+
+        <statistic name="opanowanie i koncentracja – jako elementy warunkujące skuteczne
+                         działania w defensywie, kiedy większość czasu gry zespół jest w fazie
+                         atakowania"/>
+    </profile>
+</profiles>

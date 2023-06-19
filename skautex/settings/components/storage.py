@@ -1,0 +1,15 @@
+# Python import
+import os
+
+
+AZURE_ACCOUNT_NAME = os.environ['AZURE_ACCOUNT_NAME']
+AZURE_ACCOUNT_KEY = os.environ['AZURE_ACCOUNT_KEY']
+AZURE_BLOB_CUSTOM_DOMAIN = f'{AZURE_ACCOUNT_NAME}.blob.core.windows.net'
+
+AZURE_STATIC_LOCATION = os.environ['AZURE_STATIC_LOCATION']
+STATICFILES_STORAGE = 'core.backends.AzureStaticStorage'
+
+AZURE_MEDIA_LOCATION = os.environ['AZURE_MEDIA_LOCATION']
+DEFAULT_FILE_STORAGE = 'core.backends.AzureMediaStorage'
+
+STATIC_URL = f'https://{AZURE_BLOB_CUSTOM_DOMAIN}/{AZURE_STATIC_LOCATION}/'
